@@ -6,5 +6,5 @@ Png:
 
 # Install ImagerApi #
 ```JS
-git install https://github.com/MCKHOAHONG/IMAGERAPI.git
+git clone https://github.com/MCKHOAHONG/IMAGERAPI.git
 ```
